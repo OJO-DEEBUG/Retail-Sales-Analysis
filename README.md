@@ -24,6 +24,7 @@ For this analysis, I utilised Excel (Power query Editor) for cleaning and enrich
 4. To examine monthly trends in total profit, highlighting seasonal variations and identifying peak sales periods.
 5. To provide a visual representation of customer distribution by gender and its correlation with total profit.
 
+![Screenshot 2024-08-20 143750](https://github.com/user-attachments/assets/b7ec9d9a-fe61-411c-882e-fb471babbab7)
 
 
 ### Results 
