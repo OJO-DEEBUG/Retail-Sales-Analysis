@@ -24,6 +24,8 @@ For this analysis, I utilised Excel (Power query Editor) for cleaning and enrich
 4. To examine monthly trends in total profit, highlighting seasonal variations and identifying peak sales periods.
 5. To provide a visual representation of customer distribution by gender and its correlation with total profit.
 
+
+
 ### Results 
 - The Retail store generated the highest profit from Electronics as a  products category with the with profit of #20,000, followed by beauty with profit of #15,485, then clothing with #1 2105.
 
